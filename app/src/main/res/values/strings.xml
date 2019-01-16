@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="search">Search</string>
+    <string name="city_not_found">City not found</string>
+    <string name="choose_your_city">Choose your city</string>
+    <string name="failed_to_refresh_forecast">Failed to refresh forecast</string>
+    <string name="provide_permissions">These permissions are mandatory to get your location. You need to allow them.</string>
+    <string name="please_turn_on_gps">Please, turn on GPS</string>
+</resources>
